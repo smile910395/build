@@ -1,5 +1,5 @@
-{
-  "parkingLots" : [ {
+[
+   {
     "areaId" : "1",
     "areaName" : "桃園區",
     "parkName" : "府前地下停車場",
@@ -743,5 +743,5 @@
     "wgsX" : 121.2163,
     "wgsY" : 24.8644,
     "parkId" : "P-LT-002"
-  } ]
-}
+  }
+]
